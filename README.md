@@ -7,3 +7,5 @@ argocd app create example-app \
  --dest-namespace default
 
 argocd app sync example-app
+
+test
